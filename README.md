@@ -18,3 +18,8 @@
 - 💬 Ping me about **JavaScript**, **CSS**, **HTML**, **SaaS**, **Open Source**
 - 📫 Reach me: [twitter.com/rajeevedmonds](https://twitter.com/rajeevedmonds)
 - ⚡️ Fact about me: I neither take tea nor coffee
+
+<br />
+
+[![Rajeev Edmonds's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevedmonds&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/rajeevedmonds/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajeevedmonds&theme=dark)](https://git.io/streak-stats)
