@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack JavaScript Developer working in New Delhi, India.
+#### I'm a Node JS Developer working in New Delhi, India.
 
 ##### NOW
 
@@ -11,10 +11,10 @@
 ##### BIO
 
 - 🏢 Currently working as a **Freelancer**
-- ⚙️ Daily encounters: `.json`, `.js`, `.html`, `.css`, `git`
+- ⚙️ Daily encounters: `.json`, `.js`, `.ts`, `node_modules`, `git`
 - 🌍 Mostly active within the **Node JS Community**
 - 💅 Designed: [Heterodox Academy](https://heterodoxacademy.org/), [OpenMind](https://openmindplatform.org/), etc…
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **JavaScript**, **CSS**, **HTML**, **SaaS**, **Open Source**
+- 💬 Ping me about **JavaScript**, **TypeScript**, **Node**, **MongoDB**, **Express**
 - 📫 Reach me: [twitter.com/rajeevedmonds](https://twitter.com/rajeevedmonds)
 - ⚡️ Fact about me: I neither take tea nor coffee
