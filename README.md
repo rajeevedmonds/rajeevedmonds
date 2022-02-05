@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Node JS Developer working in New Delhi, India.
+#### I'm a Node.js Developer working in New Delhi, India.
 
 ##### NOW
 
@@ -12,7 +12,7 @@
 
 - 🏢 Currently working as a **Freelancer**
 - ⚙️ Daily encounters: `.json`, `.js`, `.ts`, `node_modules`, `git`
-- 🌍 Mostly active within the **Node JS Community**
+- 🌍 Mostly active within the **Node.js Community**
 - 💅 Designed: [Heterodox Academy](https://heterodoxacademy.org/), [OpenMind](https://openmindplatform.org/), etc…
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **JavaScript**, **TypeScript**, **Node**, **MongoDB**, **Express**
